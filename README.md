@@ -14,3 +14,5 @@
 - SQF Lite
 
 ## Review app
+Untuk demi aplikasi bisa lihat disini :
+https://youtu.be/d1jdVZd29nc?si=tV_HKIf9EPHyIJp-
